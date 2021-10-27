@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15rem;
+}
+
+button {
+    margin: 5rem;
+    font-size: 2em;
+}
+
+.result {
+    font-size: 5em;
+}
